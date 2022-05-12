@@ -29,5 +29,4 @@ This project was compiled using gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *
    
    
    AUTHORS
-        Eric Botchway
-        Martha Klenam
+        Eric Botchway Martha Klenam
